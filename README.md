@@ -65,5 +65,5 @@ Any reuse should be for learning or professional evaluation only.
 ---
 
 ## Author
-**Arafat Miah** 
-**Digital Design**
+**Arafat Miah,** 
+Digital Design
